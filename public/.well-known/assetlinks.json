@@ -3,9 +3,9 @@
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
-        "package_name": "with. Multestore.Multestore",
+        "package_name": "com.suhilkm.multestorecustomer",
         "sha256_cert_fingerprints": [
-          "E1:D4:8B:E3:59:9E:45:7E:8A:29:10:C2:CD:10:B0:C1:F7:EE:71:48:78:F6:FC:CC:32:64:92:0E:85:53:65:DE"
+          "DF:85:61:E5:F7:16:10:94:30:1C:B3:ED:8C:DA:A2:9D:70:F8:21:3D:6D:00:03:7F:DE:A3:32:C5:E9:D7:EC:01"
         ]
       }
     }

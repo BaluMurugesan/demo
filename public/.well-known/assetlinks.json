@@ -1,13 +1,12 @@
 [
-    {
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.suhilkm.multestorecustomer",
-        "sha256_cert_fingerprints": [
-          "DF:85:61:E5:F7:16:10:94:30:1C:B3:ED:8C:DA:A2:9D:70:F8:21:3D:6D:00:03:7F:DE:A3:32:C5:E9:D7:EC:01"
-        ]
-      }
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.lifeitis",
+      "sha256_cert_fingerprints": [
+        "64:81:65:53:CE:1F:E6:B2:13:E8:84:40:11:9D:BF:B7:B5:D1:ED:93:C6:C7:49:D1:CC:7F:F4:1C:11:CC:9C:42"
+      ]
     }
-  ]
-  
+  }
+]

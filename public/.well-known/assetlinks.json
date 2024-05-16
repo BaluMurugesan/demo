@@ -5,7 +5,9 @@
       "namespace": "android_app",
       "package_name": "com.lifeitis",
       "sha256_cert_fingerprints": [
-        "64:81:65:53:CE:1F:E6:B2:13:E8:84:40:11:9D:BF:B7:B5:D1:ED:93:C6:C7:49:D1:CC:7F:F4:1C:11:CC:9C:42"
+        "64:81:65:53:CE:1F:E6:B2:13:E8:84:40:11:9D:BF:B7:B5:D1:ED:93:C6:C7:49:D1:CC:7F:F4:1C:11:CC:9C:42",
+        "74:02:59:12:81:D4:25:F3:85:D9:BB:76:17:79:7B:21:8C:54:A9:8D:16:6C:38:DC:7A:27:E9:CF:A3:39:EB:84",
+        "D4:2A:43:BE:A8:8D:D7:5D:9E:A9:7D:DE:C9:4E:7B:06:B6:F7:0B:EA:A6:64:38:4A:DC:71:1A:1A:9A:7B:7F:DD"
       ]
     }
   }
